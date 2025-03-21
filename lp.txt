@@ -8,6 +8,7 @@
 <link rel="canonical" href="https://blog.nurulhidayah.net/"/>
 <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/30/faviconkoi_new.png" sizes="32x32">
 <meta name="description" content="KOITOTO adalah toto togel 4D resmi terpercaya No.1 di Indonesia, menyediakan link utama yang selalu terupdate untuk memastikan Anda dapat bermain dengan lancar tanpa kendala." />
+<meta name="google-site-verification" content="xeShdFTafAfdpdHKDM6xr02cK7c1kXqcEyBuAaw7Wi8" />
 <meta name="google" content="notranslate"/>
 <meta name="robots" content="index, follow"/>
 <meta name="rating" content="general"/>
